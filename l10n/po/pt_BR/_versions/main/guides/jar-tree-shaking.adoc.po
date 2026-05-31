@@ -323,7 +323,7 @@ msgstr "O nível de `classes` remove apenas os arquivos de classe. Outros recurs
 #: _versions/main/guides/jar-tree-shaking.adoc
 #, fuzzy
 msgid "Troubleshooting"
-msgstr "Resolução de problemas"
+msgstr "Solução de problemas"
 
 #. type: Plain text
 #: _versions/main/guides/jar-tree-shaking.adoc
