@@ -47,7 +47,7 @@ guides/security-webauthn.adoc.po, 119, 140, 2793, 2923, 5%
 guides/dev-ui-v2.adoc.po, 224, 347, 2791, 4381, 37%
 guides/quarkus-data-hibernate.adoc.po, 216, 216, 2622, 2622, 0%
 guides/resteasy.adoc.po, 134, 155, 2601, 2757, 6%
-guides/cyclonedx.adoc.po, 137, 143, 2542, 2550, 1%
+guides/cyclonedx.adoc.po, 135, 143, 2511, 2550, 2%
 guides/scheduler-reference.adoc.po, 139, 145, 2500, 2535, 2%
 guides/writing-extensions.adoc.po, 109, 663, 2447, 12880, 82%
 guides/kafka-streams.adoc.po, 119, 132, 2441, 2559, 5%
@@ -104,7 +104,7 @@ guides/kotlin.adoc.po, 84, 94, 1438, 1468, 3%
 guides/class-loading-reference.adoc.po, 62, 65, 1436, 1469, 3%
 guides/deploying-to-google-cloud.adoc.po, 86, 89, 1436, 1442, 1%
 guides/kubernetes-client.adoc.po, 60, 67, 1396, 1440, 4%
-guides/management-interface-reference.adoc.po, 82, 87, 1389, 1424, 3%
+guides/management-interface-reference.adoc.po, 78, 87, 1385, 1424, 3%
 guides/smallrye-graphql-client.adoc.po, 50, 62, 1371, 1445, 6%
 guides/_includes/smallrye-kafka-incoming.adoc.po, 123, 142, 1345, 1670, 20%
 guides/agent-mcp.adoc.po, 103, 103, 1341, 1341, 0%
