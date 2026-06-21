@@ -1,12 +1,12 @@
 Filename, Fuzzy Messages, Total Messages, Fuzzy Words, Total Words, Achievement
-l10n/po/pt_BR/_data/wg.yaml.po, 242, 242, 13498, 13498, 0%
+l10n/po/pt_BR/_data/wg.yaml.po, 244, 244, 13652, 13652, 0%
 l10n/po/pt_BR/_data/versioned/3-34/index/quarkus.yaml.po, 1581, 1581, 6177, 6177, 0%
-l10n/po/pt_BR/_data/versioned/main/index/quarkus.yaml.po, 787, 1639, 4046, 6401, 37%
+l10n/po/pt_BR/_data/versioned/main/index/quarkus.yaml.po, 798, 1650, 4067, 6422, 37%
 l10n/po/pt_BR/_data/versioned/latest/index/quarkus.yaml.po, 747, 1602, 3870, 6257, 39%
 l10n/po/pt_BR/_data/versioned/3-33/index/quarkus.yaml.po, 726, 1581, 3789, 6176, 39%
 l10n/po/pt_BR/_data/versioned/3-27/index/quarkus.yaml.po, 703, 1563, 3695, 6099, 40%
 l10n/po/pt_BR/_data/versioned/3-20/index/quarkus.yaml.po, 683, 1537, 3619, 6016, 40%
-l10n/po/pt_BR/_data/insights-videos.yaml.po, 914, 965, 3509, 3614, 3%
+l10n/po/pt_BR/_data/insights-videos.yaml.po, 915, 966, 3510, 3615, 3%
 l10n/po/pt_BR/_data/versioned/3-15/index/quarkus.yaml.po, 648, 1478, 3402, 5845, 42%
 l10n/po/pt_BR/_data/versioned/3-8/index/quarkus.yaml.po, 555, 1341, 2854, 5359, 47%
 l10n/po/pt_BR/_data/versioned/3-6/index/quarkus.yaml.po, 541, 1329, 2735, 5304, 49%
@@ -16,7 +16,7 @@ l10n/po/pt_BR/_data/versioned/3-34/index/relations.yaml.po, 515, 515, 1404, 1404
 l10n/po/pt_BR/_data/events.yaml.po, 128, 128, 920, 920, 0%
 l10n/po/pt_BR/_data/books.yaml.po, 85, 87, 904, 908, 1%
 l10n/po/pt_BR/_data/extensions.yaml.po, 386, 416, 860, 896, 5%
-l10n/po/pt_BR/_data/versioned/main/index/relations.yaml.po, 181, 529, 789, 1437, 46%
+l10n/po/pt_BR/_data/versioned/main/index/relations.yaml.po, 183, 531, 794, 1442, 45%
 l10n/po/pt_BR/_data/versioned/latest/index/relations.yaml.po, 168, 517, 755, 1411, 47%
 l10n/po/pt_BR/_includes/performance.html.po, 35, 35, 749, 749, 0%
 l10n/po/pt_BR/_data/versioned/3-33/index/relations.yaml.po, 166, 515, 748, 1404, 47%
