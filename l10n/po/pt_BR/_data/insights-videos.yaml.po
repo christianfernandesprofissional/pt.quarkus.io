@@ -15,25 +15,7 @@ msgstr ""
 msgid "Scheduled Podcasts"
 msgstr "Podcasts programados"
 
-#. type: Hash Value: pastvideos authors
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "Francesco Nigro"
-msgstr "Francesco Nigro"
-
-#. type: Hash Value: futurevideos date
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "June 22nd, 2026"
-msgstr ""
-
-#. type: Hash Value: nextsessiontitle
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "Episode #252: Lessons learned with Franz"
-msgstr ""
-
-#. type: Hash Value: futurevideos authors
+#. type: Hash Value: nextsessionguest
 #: _data/insights-videos.yaml:1
 #, no-wrap
 msgid "Bruno Baptista & Max Andersen"
@@ -45,7 +27,7 @@ msgstr ""
 msgid "June 29th, 2026"
 msgstr ""
 
-#. type: Hash Value: futurevideos title
+#. type: Hash Value: nextsessiontitle
 #: _data/insights-videos.yaml:1
 #, no-wrap
 msgid "Episode #253: Some thoughts on Quarkus metrics"
@@ -180,7 +162,7 @@ msgstr ""
 #. type: Hash Value: nextsessiondate
 #: _data/insights-videos.yaml:1
 #, no-wrap
-msgid "2026-06-22T13:00Z"
+msgid "2026-06-29T13:00Z"
 msgstr ""
 
 #. type: Hash Value: pastheadline
@@ -188,6 +170,30 @@ msgstr ""
 #, fuzzy, no-wrap
 msgid "Archived Podcast Videos"
 msgstr "Vídeos de podcast arquivados"
+
+#. type: Hash Value: pastvideos authors
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "Francesco Nigro"
+msgstr "Francesco Nigro"
+
+#. type: Hash Value: pastvideos date
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "June 22nd, 2026"
+msgstr ""
+
+#. type: Hash Value: pastvideos link
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "https://youtube.com/live/pYp5blcqujM"
+msgstr ""
+
+#. type: Hash Value: pastvideos title
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "Episode #252: Lessons learned with Franz"
+msgstr ""
 
 #. type: Hash Value: pastvideos authors
 #: _data/insights-videos.yaml:1

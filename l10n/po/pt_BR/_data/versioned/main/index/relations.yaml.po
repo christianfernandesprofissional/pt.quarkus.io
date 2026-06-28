@@ -3138,6 +3138,18 @@ msgstr "/guides/spring-web"
 #. type: Hash Value: /guides/spring-web sameTopics title
 #: _data/versioned/main/index/relations.yaml:1
 #, no-wrap
+msgid "Testing Spring-style Applications in Quarkus"
+msgstr ""
+
+#. type: Hash Value: /guides/spring-web sameTopics url
+#: _data/versioned/main/index/relations.yaml:1
+#, no-wrap
+msgid "/guides/spring-test"
+msgstr ""
+
+#. type: Hash Value: /guides/spring-web sameTopics title
+#: _data/versioned/main/index/relations.yaml:1
+#, no-wrap
 msgid "Accessing application properties with Spring Boot properties API"
 msgstr "Acessando propriedades da aplicação com Spring Boot Properties API"
 

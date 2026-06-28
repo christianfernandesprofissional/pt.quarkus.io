@@ -113,6 +113,18 @@ msgstr "https://github.com/orgs/quarkusio/projects/13/views/1"
 
 #. type: Hash Value: links subfolderitems page
 #: _data/projectfooter.yaml:1
+#, no-wrap
+msgid "Releases"
+msgstr ""
+
+#. type: Hash Value: links subfolderitems url
+#: _data/projectfooter.yaml:1
+#, no-wrap
+msgid "/releases"
+msgstr ""
+
+#. type: Hash Value: links subfolderitems page
+#: _data/projectfooter.yaml:1
 #, fuzzy, no-wrap
 msgid "Security&nbsp;policy"
 msgstr "Política de segurança"
