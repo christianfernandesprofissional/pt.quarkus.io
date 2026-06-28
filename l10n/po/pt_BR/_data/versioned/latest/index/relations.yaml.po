@@ -2765,9 +2765,9 @@ msgstr ""
 
 #. type: Hash Value: /guides/jlink sameTopics title
 #: _data/versioned/latest/index/relations.yaml:1
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Tree-shaking JAR dependencies"
-msgstr ""
+msgstr "Dependências de JAR em formato de árvore"
 
 #. type: Hash Value: /guides/jlink sameTopics url
 #: _data/versioned/latest/index/relations.yaml:1

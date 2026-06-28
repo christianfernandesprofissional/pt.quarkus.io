@@ -2231,8 +2231,9 @@ msgstr "Não é possível estender a sessão do usuário indefinidamente. O usu�
 
 #. type: Title ==
 #: _guides/security-oidc-code-flow-authentication.adoc
+#, fuzzy
 msgid "Step Up Authentication"
-msgstr ""
+msgstr "Autenticação Step Up"
 
 #. type: Plain text
 #: _guides/security-oidc-code-flow-authentication.adoc
@@ -2248,8 +2249,9 @@ msgstr ""
 
 #. type: Plain text
 #: _guides/security-oidc-code-flow-authentication.adoc
+#, fuzzy
 msgid "Disable proactive authentication so that the `@AuthenticationContext` annotation can be matched with the endpoint before Quarkus authenticates incoming requests."
-msgstr ""
+msgstr "Desative a autenticação proativa para que a anotação `@AuthenticationContext` possa ser combinada com o endpoint antes que o Quarkus autentique as solicitações recebidas."
 
 #. type: Plain text
 #: _guides/security-oidc-code-flow-authentication.adoc
