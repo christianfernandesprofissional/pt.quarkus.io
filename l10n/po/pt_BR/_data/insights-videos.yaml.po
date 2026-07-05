@@ -15,24 +15,6 @@ msgstr ""
 msgid "Scheduled Podcasts"
 msgstr "Podcasts programados"
 
-#. type: Hash Value: nextsessionguest
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "Bruno Baptista & Max Andersen"
-msgstr ""
-
-#. type: Hash Value: futurevideos date
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "June 29th, 2026"
-msgstr ""
-
-#. type: Hash Value: nextsessiontitle
-#: _data/insights-videos.yaml:1
-#, no-wrap
-msgid "Episode #253: Some thoughts on Quarkus metrics"
-msgstr ""
-
 #. type: Hash Value: futurevideos authors
 #: _data/insights-videos.yaml:1
 #, fuzzy, no-wrap
@@ -63,7 +45,7 @@ msgstr ""
 msgid "July 13th, 2026"
 msgstr ""
 
-#. type: Hash Value: futurevideos title
+#. type: Hash Value: nextsessiontitle
 #: _data/insights-videos.yaml:1
 #, no-wrap
 msgid "Episode #254: Domain Driven Design & Hexagonal Architecture - Part 2"
@@ -162,7 +144,7 @@ msgstr ""
 #. type: Hash Value: nextsessiondate
 #: _data/insights-videos.yaml:1
 #, no-wrap
-msgid "2026-06-29T13:00Z"
+msgid "2026-07-13T13:00Z"
 msgstr ""
 
 #. type: Hash Value: pastheadline
@@ -170,6 +152,30 @@ msgstr ""
 #, fuzzy, no-wrap
 msgid "Archived Podcast Videos"
 msgstr "Vídeos de podcast arquivados"
+
+#. type: Hash Value: pastvideos authors
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "Bruno Baptista & Max Andersen"
+msgstr ""
+
+#. type: Hash Value: pastvideos date
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "June 29th, 2026"
+msgstr ""
+
+#. type: Hash Value: pastvideos link
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "https://youtube.com/live/VXly6egPSTs"
+msgstr ""
+
+#. type: Hash Value: pastvideos title
+#: _data/insights-videos.yaml:1
+#, no-wrap
+msgid "Episode #253: Some thoughts on Quarkus metrics"
+msgstr ""
 
 #. type: Hash Value: pastvideos authors
 #: _data/insights-videos.yaml:1
