@@ -1894,13 +1894,15 @@ msgstr ""
 
 #. type: Table
 #: _versions/main/guides/kafka.adoc
+#, fuzzy
 msgid "Property"
-msgstr ""
+msgstr "Imóveis"
 
 #. type: Table
 #: _versions/main/guides/kafka.adoc
+#, fuzzy
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #. type: Table
 #: _versions/main/guides/kafka.adoc
@@ -1919,8 +1921,9 @@ msgstr ""
 
 #. type: Table
 #: _versions/main/guides/kafka.adoc
+#, fuzzy
 msgid "`true`"
-msgstr ""
+msgstr "`true`"
 
 #. type: Table
 #: _versions/main/guides/kafka.adoc
