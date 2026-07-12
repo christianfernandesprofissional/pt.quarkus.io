@@ -14,7 +14,7 @@ msgstr ""
 msgid "<a href=\"{{site.baseurl}}/\">"
 msgstr ""
 
-#. type: Attribute 'title' of: <div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><a><img>
 #: _includes/project-footer.html:4
 msgid "Quarkus"
 msgstr ""

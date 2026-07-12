@@ -14,9 +14,19 @@ msgstr ""
 msgid "<a href=\"{{site.baseurl}}/blog/aviatar-experiences-significant-savings/\">"
 msgstr ""
 
+#. type: Attribute 'alt' of: <div><div><div><a><img><img>
+#: _includes/homepage-userstory-callout.html:5
+msgid "Lufthansa Aviatar user story"
+msgstr ""
+
 #. type: Content of: <div><div><div><a>
 #: _includes/homepage-userstory-callout.html:8
 msgid "<a href=\"{{site.baseurl}}/blog/logicdrop-customer-story/\">"
+msgstr ""
+
+#. type: Attribute 'alt' of: <div><div><div><a><img><img>
+#: _includes/homepage-userstory-callout.html:8
+msgid "Logicdrop user story"
 msgstr ""
 
 #. type: Content of: <div><div><div><a>
@@ -24,9 +34,19 @@ msgstr ""
 msgid "<a href=\"{{site.baseurl}}/blog/banco-do-brasil-open-banking-user-story/\">"
 msgstr ""
 
+#. type: Attribute 'alt' of: <div><div><div><a><img><img>
+#: _includes/homepage-userstory-callout.html:11
+msgid "Banco do Brasil open banking user story"
+msgstr ""
+
 #. type: Content of: <div><div><div><a>
 #: _includes/homepage-userstory-callout.html:14
 msgid "<a href=\"{{site.baseurl}}/blog/adoptium-customer-story/\">"
+msgstr ""
+
+#. type: Attribute 'alt' of: <div><div><div><a><img><img>
+#: _includes/homepage-userstory-callout.html:14
+msgid "Adoptium user story"
 msgstr ""
 
 #. type: Content of: <div><div><div>
