@@ -314,8 +314,9 @@ msgstr "O uso dos métodos de autenticação `client_secret_jwt` ou `private_key
 
 #. type: Title ===
 #: _versions/main/guides/security-oidc-code-flow-authentication.adoc
+#, fuzzy
 msgid "JWT Bearer"
-msgstr ""
+msgstr "Portador JWT"
 
 #. type: Block title
 #: _versions/main/guides/security-oidc-code-flow-authentication.adoc
