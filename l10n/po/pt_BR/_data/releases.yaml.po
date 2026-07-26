@@ -24,7 +24,7 @@ msgstr ""
 #. type: Hash Value: support_providers herodevs url
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "https://www.herodevs.com/support/quarkus-nes"
+msgid "https://www.herodevs.com/support/nes-for-quarkus"
 msgstr ""
 
 #. type: Hash Value: policy eol_description
@@ -66,13 +66,13 @@ msgstr ""
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.37.3"
+msgid "3.37.4"
 msgstr ""
 
 #. type: Hash Value: releases latest_patch_date
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "2026-07-15"
+msgid "2026-07-23"
 msgstr ""
 
 #. type: Hash Value: releases release_date
