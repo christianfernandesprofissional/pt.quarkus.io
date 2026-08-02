@@ -1165,13 +1165,15 @@ msgstr ""
 
 #. type: Table
 #: _guides/smallrye-graphql.adoc
+#, fuzzy
 msgid "Resource"
-msgstr ""
+msgstr "Recursos"
 
 #. type: Table
 #: _guides/smallrye-graphql.adoc
+#, fuzzy
 msgid "Purpose"
-msgstr ""
+msgstr "Finalidade"
 
 #. type: Table
 #: _guides/smallrye-graphql.adoc
