@@ -60,6 +60,24 @@ msgstr ""
 #. type: Hash Value: releases version
 #: _data/releases.yaml:1
 #, no-wrap
+msgid "3.39"
+msgstr ""
+
+#. type: Hash Value: releases latest_patch
+#: _data/releases.yaml:1
+#, no-wrap
+msgid "3.38.0"
+msgstr ""
+
+#. type: Hash Value: releases latest_patch_date
+#: _data/releases.yaml:1
+#, no-wrap
+msgid "2026-07-29"
+msgstr ""
+
+#. type: Hash Value: releases version
+#: _data/releases.yaml:1
+#, no-wrap
 msgid "3.38"
 msgstr ""
 
@@ -192,13 +210,7 @@ msgstr ""
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.33.2.1"
-msgstr ""
-
-#. type: Hash Value: releases latest_patch_date
-#: _data/releases.yaml:1
-#, no-wrap
-msgid "2026-06-17"
+msgid "3.33.3"
 msgstr ""
 
 #. type: Hash Value: releases link
@@ -366,7 +378,7 @@ msgstr ""
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.27.4.1"
+msgid "3.27.5"
 msgstr ""
 
 #. type: Hash Value: releases version
@@ -529,6 +541,12 @@ msgstr ""
 #: _data/releases.yaml:1
 #, no-wrap
 msgid "3.20.6.2"
+msgstr ""
+
+#. type: Hash Value: releases latest_patch_date
+#: _data/releases.yaml:1
+#, no-wrap
+msgid "2026-06-17"
 msgstr ""
 
 #. type: Hash Value: releases rhbq_eol

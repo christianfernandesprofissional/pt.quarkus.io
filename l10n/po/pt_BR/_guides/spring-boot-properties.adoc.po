@@ -345,3 +345,8 @@ msgstr "xref:spring-scheduled.adoc[Quarkus - Extension for Spring Scheduled]"
 #: _guides/spring-boot-properties.adoc
 msgid "xref:spring-tx.adoc[Quarkus - Extension for Spring Transaction]"
 msgstr ""
+
+#. type: Plain text
+#: _guides/spring-boot-properties.adoc
+msgid "xref:spring-test.adoc[Testing Spring-style Applications in Quarkus]"
+msgstr ""
