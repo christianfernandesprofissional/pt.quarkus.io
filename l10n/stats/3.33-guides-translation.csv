@@ -90,11 +90,11 @@ guides/testing-components.adoc.po, 79, 81, 1533, 1535, 1%
 guides/funqy-knative-events.adoc.po, 64, 68, 1497, 1512, 1%
 guides/platform.adoc.po, 62, 62, 1478, 1478, 0%
 guides/kafka-schema-registry-avro.adoc.po, 71, 84, 1467, 1547, 6%
-guides/cyclonedx.adoc.po, 69, 70, 1462, 1463, 1%
 guides/vertx.adoc.po, 90, 102, 1453, 1514, 5%
 guides/kotlin.adoc.po, 84, 94, 1438, 1468, 3%
 guides/class-loading-reference.adoc.po, 62, 65, 1436, 1469, 3%
 guides/deploying-to-google-cloud.adoc.po, 86, 89, 1436, 1442, 1%
+guides/cyclonedx.adoc.po, 67, 70, 1431, 1463, 3%
 guides/databases-dev-services.adoc.po, 82, 83, 1431, 1433, 1%
 guides/rest-json.adoc.po, 75, 100, 1412, 1603, 12%
 guides/kubernetes-client.adoc.po, 60, 67, 1396, 1440, 4%
