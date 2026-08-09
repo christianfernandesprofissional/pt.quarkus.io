@@ -47,9 +47,9 @@ msgstr ""
 
 #. type: Hash Value: upcomingevents thumbnail
 #: _data/events.yaml:1
-#, fuzzy, no-wrap
-msgid "rivieradev_logo.png"
-msgstr "rivieradev_logo.png"
+#, no-wrap
+msgid "rivieradev_logo.webp"
+msgstr ""
 
 #. type: Hash Value: upcomingevents title
 #: _data/events.yaml:1
@@ -96,7 +96,7 @@ msgstr ""
 #. type: Hash Value: upcomingevents thumbnail
 #: _data/events.yaml:1
 #, no-wrap
-msgid "kubecon_jp_2026_logo.png"
+msgid "kubecon_jp_2026_logo.webp"
 msgstr ""
 
 #. type: Hash Value: upcomingevents title
@@ -138,7 +138,7 @@ msgstr ""
 #. type: Hash Value: upcomingevents thumbnail
 #: _data/events.yaml:1
 #, no-wrap
-msgid "quarkusclub_logo.png"
+msgid "quarkusclub_logo.webp"
 msgstr ""
 
 #. type: Hash Value: upcomingevents title
@@ -186,7 +186,7 @@ msgstr ""
 #. type: Hash Value: upcomingevents thumbnail
 #: _data/events.yaml:1
 #, no-wrap
-msgid "osskorea_logo.png"
+msgid "osskorea_logo.webp"
 msgstr ""
 
 #. type: Hash Value: upcomingevents title
@@ -222,7 +222,7 @@ msgstr ""
 #. type: Hash Value: upcomingevents thumbnail
 #: _data/events.yaml:1
 #, no-wrap
-msgid "mcpdevsummit_logo.png"
+msgid "mcpdevsummit_logo.webp"
 msgstr ""
 
 #. type: Hash Value: upcomingevents title
@@ -264,7 +264,7 @@ msgstr ""
 #. type: Hash Value: upcomingevents thumbnail
 #: _data/events.yaml:1
 #, no-wrap
-msgid "javazone26_logo.png"
+msgid "javazone26_logo.webp"
 msgstr ""
 
 #. type: Hash Value: upcomingevents title
@@ -306,7 +306,7 @@ msgstr ""
 #. type: Hash Value: upcomingevents thumbnail
 #: _data/events.yaml:1
 #, no-wrap
-msgid "kubecon_cn_2026_logo.png"
+msgid "kubecon_cn_2026_logo.webp"
 msgstr ""
 
 #. type: Hash Value: upcomingevents title

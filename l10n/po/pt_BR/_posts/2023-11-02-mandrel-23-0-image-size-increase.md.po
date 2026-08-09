@@ -536,7 +536,7 @@ msgstr ""
 #. type: Plain text
 #: _posts/2023-11-02-mandrel-23-0-image-size-increase.md:256
 #, no-wrap
-msgid "![png](/assets/images/posts/mandrel-23-0-image-size-increase/index_9_0.png)\n"
+msgid "![png](/assets/images/posts/mandrel-23-0-image-size-increase/index_9_0.webp)\n"
 msgstr ""
 
 #. type: Plain text
@@ -571,7 +571,7 @@ msgstr ""
 #. type: Plain text
 #: _posts/2023-11-02-mandrel-23-0-image-size-increase.md:284
 #, no-wrap
-msgid "![png](/assets/images/posts/mandrel-23-0-image-size-increase/index_11_0.png)\n"
+msgid "![png](/assets/images/posts/mandrel-23-0-image-size-increase/index_11_0.webp)\n"
 msgstr ""
 
 #. type: Plain text

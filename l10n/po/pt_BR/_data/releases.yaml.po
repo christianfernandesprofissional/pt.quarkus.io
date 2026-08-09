@@ -66,10 +66,16 @@ msgstr ""
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.38.0"
+msgid "3.38.1"
 msgstr ""
 
 #. type: Hash Value: releases latest_patch_date
+#: _data/releases.yaml:1
+#, no-wrap
+msgid "2026-08-04"
+msgstr ""
+
+#. type: Hash Value: releases eol_date
 #: _data/releases.yaml:1
 #, no-wrap
 msgid "2026-07-29"
@@ -210,7 +216,7 @@ msgstr ""
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.33.3"
+msgid "3.33.3.1"
 msgstr ""
 
 #. type: Hash Value: releases link
@@ -378,7 +384,7 @@ msgstr ""
 #. type: Hash Value: releases latest_patch
 #: _data/releases.yaml:1
 #, no-wrap
-msgid "3.27.5"
+msgid "3.27.5.1"
 msgstr ""
 
 #. type: Hash Value: releases version
@@ -535,6 +541,12 @@ msgstr ""
 #: _data/releases.yaml:1
 #, no-wrap
 msgid "2026-03-28"
+msgstr ""
+
+#. type: Hash Value: releases herodevs_eol
+#: _data/releases.yaml:1
+#, no-wrap
+msgid "nes"
 msgstr ""
 
 #. type: Hash Value: releases latest_patch
