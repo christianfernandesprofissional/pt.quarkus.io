@@ -1,12 +1,13 @@
 Filename, Fuzzy Messages, Total Messages, Fuzzy Words, Total Words, Achievement
 l10n/po/pt_BR/_data/wg.yaml.po, 258, 258, 14398, 14398, 0%
+l10n/po/pt_BR/_data/versioned/main/index/categories.yaml.po, 1787, 1787, 6730, 6730, 0%
 l10n/po/pt_BR/_data/versioned/3-34/index/quarkus.yaml.po, 1581, 1581, 6177, 6177, 0%
-l10n/po/pt_BR/_data/versioned/main/index/quarkus.yaml.po, 836, 1679, 4258, 6530, 35%
-l10n/po/pt_BR/_data/versioned/latest/index/quarkus.yaml.po, 803, 1655, 4099, 6454, 37%
+l10n/po/pt_BR/_data/versioned/main/index/quarkus.yaml.po, 848, 1673, 4274, 6505, 35%
+l10n/po/pt_BR/_data/versioned/latest/index/quarkus.yaml.po, 805, 1657, 4100, 6455, 37%
 l10n/po/pt_BR/_data/versioned/3-33/index/quarkus.yaml.po, 726, 1581, 3789, 6176, 39%
 l10n/po/pt_BR/_data/versioned/3-27/index/quarkus.yaml.po, 703, 1563, 3695, 6099, 40%
 l10n/po/pt_BR/_data/versioned/3-20/index/quarkus.yaml.po, 683, 1537, 3619, 6016, 40%
-l10n/po/pt_BR/_data/insights-videos.yaml.po, 918, 970, 3515, 3622, 3%
+l10n/po/pt_BR/_data/insights-videos.yaml.po, 918, 970, 3513, 3620, 3%
 l10n/po/pt_BR/_data/versioned/3-15/index/quarkus.yaml.po, 648, 1478, 3402, 5845, 42%
 l10n/po/pt_BR/_data/versioned/3-8/index/quarkus.yaml.po, 555, 1341, 2854, 5359, 47%
 l10n/po/pt_BR/_data/versioned/3-6/index/quarkus.yaml.po, 541, 1329, 2735, 5304, 49%
@@ -31,7 +32,7 @@ l10n/po/pt_BR/_data/versioned/3-6/index/relations.yaml.po, 118, 444, 532, 1183, 
 l10n/po/pt_BR/_includes/benefactors.html.po, 32, 32, 530, 530, 0%
 l10n/po/pt_BR/_data/contributors.yaml.po, 358, 358, 520, 520, 0%
 l10n/po/pt_BR/_includes/ai-frozenrag.html.po, 25, 25, 501, 501, 0%
-l10n/po/pt_BR/_data/releases.yaml.po, 405, 405, 490, 490, 0%
+l10n/po/pt_BR/_data/releases.yaml.po, 407, 407, 492, 492, 0%
 l10n/po/pt_BR/_includes/working-group-band.html.po, 34, 34, 481, 481, 0%
 l10n/po/pt_BR/_includes/ai-java-for-ai.html.po, 38, 38, 459, 459, 0%
 l10n/po/pt_BR/_includes/continuum.html.po, 12, 42, 412, 1346, 70%
