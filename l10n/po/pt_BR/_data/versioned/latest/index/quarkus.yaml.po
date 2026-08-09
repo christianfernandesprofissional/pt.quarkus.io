@@ -7907,9 +7907,9 @@ msgstr ""
 
 #. type: Array Element: types howto extensions
 #: _data/versioned/latest/index/quarkus.yaml:1
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "io.quarkus:quarkus-elytron-security-properties-file"
-msgstr ""
+msgstr "io.quarkus:quarkus-elytron-security-properties-file"
 
 #. type: Hash Value: types howto filename
 #: _data/versioned/latest/index/quarkus.yaml:1
