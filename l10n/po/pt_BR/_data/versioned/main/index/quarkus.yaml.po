@@ -4859,9 +4859,9 @@ msgstr "Embora o senhor seja incentivado a usar a camada de segurança do Quarku
 
 #. type: Hash Value: types guide title
 #: _data/versioned/main/index/quarkus.yaml:1
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Quarkus extension for Spring Security API"
-msgstr ""
+msgstr "Extensão Quarkus para a API de segurança do Spring"
 
 #. type: Hash Value: types guide url
 #: _data/versioned/main/index/quarkus.yaml:1
@@ -6953,9 +6953,9 @@ msgstr "Neste guia, discutiremos como o senhor pode fazer com que suas imagens n
 
 #. type: Hash Value: types guide title
 #: _data/versioned/main/index/quarkus.yaml:1
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Using SSL with native executables"
-msgstr ""
+msgstr "Uso de SSL com executáveis nativos"
 
 #. type: Array Element: types guide topics
 #: _data/versioned/main/index/quarkus.yaml:1
