@@ -18,336 +18,6 @@ msgstr "Selecione os próximos eventos"
 #. type: Hash Value: upcomingevents date
 #: _data/events.yaml:1
 #, no-wrap
-msgid "2026-09-03"
-msgstr ""
-
-#. type: Hash Value: upcomingevents description
-#: _data/events.yaml:1
-#, no-wrap
-msgid "JavaZone is the biggest community-driven Java conference that has been organized in Oslo, Norway since 2001. It is organized on a voluntary basis by a group of people from javaBin, the Norwegian Java User Group, working around the year and putting many hours to create an amazing conference experience for you."
-msgstr ""
-
-#. type: Hash Value: upcomingevents displaydate
-#: _data/events.yaml:1
-#, no-wrap
-msgid "September 2-3, 2026"
-msgstr ""
-
-#. type: Hash Value: upcomingevents link
-#: _data/events.yaml:1
-#, no-wrap
-msgid "https://github.com/quarkusio/quarkus/discussions/55075"
-msgstr ""
-
-#. type: Hash Value: upcomingevents location
-#: _data/events.yaml:1
-#, no-wrap
-msgid "Oslo, Norway"
-msgstr ""
-
-#. type: Hash Value: upcomingevents thumbnail
-#: _data/events.yaml:1
-#, no-wrap
-msgid "javazone26_logo.webp"
-msgstr ""
-
-#. type: Hash Value: upcomingevents title
-#: _data/events.yaml:1
-#, no-wrap
-msgid "JavaZone"
-msgstr ""
-
-#. type: Hash Value: upcomingevents type
-#: _data/events.yaml:1
-#, fuzzy, no-wrap
-msgid "In Person"
-msgstr "Pessoalmente"
-
-#. type: Hash Value: upcomingevents date
-#: _data/events.yaml:1
-#, no-wrap
-msgid "2026-09-09"
-msgstr ""
-
-#. type: Hash Value: upcomingevents description
-#: _data/events.yaml:1
-#, no-wrap
-msgid "This flagship event unites adopters, technologists, and community members from across the region to drive innovation in open source infrastructure, cloud native computing, machine learning and next-generation AI around common, industry-wide use cases."
-msgstr ""
-
-#. type: Hash Value: upcomingevents displaydate
-#: _data/events.yaml:1
-#, no-wrap
-msgid "September 8-9, 2026"
-msgstr ""
-
-#. type: Hash Value: upcomingevents link
-#: _data/events.yaml:1
-#, no-wrap
-msgid "https://github.com/quarkusio/quarkus/discussions/55078"
-msgstr ""
-
-#. type: Hash Value: upcomingevents location
-#: _data/events.yaml:1
-#, no-wrap
-msgid "Shanghai, China"
-msgstr ""
-
-#. type: Hash Value: upcomingevents thumbnail
-#: _data/events.yaml:1
-#, no-wrap
-msgid "kubecon_cn_2026_logo.webp"
-msgstr ""
-
-#. type: Hash Value: upcomingevents title
-#: _data/events.yaml:1
-#, no-wrap
-msgid "KubeCon China"
-msgstr ""
-
-#. type: Hash Value: upcomingevents date
-#: _data/events.yaml:1
-#, no-wrap
-msgid "2026-09-23"
-msgstr ""
-
-#. type: Hash Value: upcomingevents description
-#: _data/events.yaml:1
-#, no-wrap
-msgid "The conference where CTOs, AI leads, and architects compare notes on what actually works — orchestration, governance, and the infrastructure behind real-world agentic systems."
-msgstr ""
-
-#. type: Hash Value: upcomingevents displaydate
-#: _data/events.yaml:1
-#, no-wrap
-msgid "September 23, 2026"
-msgstr ""
-
-#. type: Hash Value: upcomingevents link
-#: _data/events.yaml:1
-#, no-wrap
-msgid "https://github.com/quarkusio/quarkus/discussions/56390"
-msgstr ""
-
-#. type: Hash Value: upcomingevents location
-#: _data/events.yaml:1
-#, no-wrap
-msgid "San Jose, CA USA"
-msgstr ""
-
-#. type: Hash Value: upcomingevents thumbnail
-#: _data/events.yaml:1
-#, no-wrap
-msgid "aicontext_logo.webp"
-msgstr ""
-
-#. type: Hash Value: upcomingevents title
-#: _data/events.yaml:1
-#, no-wrap
-msgid "AIContext - San Jose"
-msgstr ""
-
-#. type: Hash Value: upcomingevents date
-#: _data/events.yaml:1
-#, no-wrap
-msgid "2026-09-25"
-msgstr ""
-
-#. type: Hash Value: upcomingevents description
-#: _data/events.yaml:1
-#, no-wrap
-msgid "WeAreDevelopers World Congress - developers, engineering leaders, and the people building production AI systems."
-msgstr ""
-
-#. type: Hash Value: upcomingevents displaydate
-#: _data/events.yaml:1
-#, no-wrap
-msgid "September 23-25, 2026"
-msgstr ""
-
-#. type: Hash Value: upcomingevents link
-#: _data/events.yaml:1
-#, no-wrap
-msgid "https://github.com/quarkusio/quarkus/discussions/56392"
-msgstr ""
-
-#. type: Hash Value: upcomingevents thumbnail
-#: _data/events.yaml:1
-#, no-wrap
-msgid "wearedevelopers_logo.webp"
-msgstr ""
-
-#. type: Hash Value: upcomingevents title
-#: _data/events.yaml:1
-#, no-wrap
-msgid "WeAreDevelopers NA"
-msgstr ""
-
-#. type: Hash Value: upcomingevents date
-#: _data/events.yaml:1
-#, no-wrap
-msgid "2026-10-01"
-msgstr ""
-
-#. type: Hash Value: upcomingevents description
-#: _data/events.yaml:1
-#, no-wrap
-msgid "apidays London 2026 explores the technical and regulatory architecture required to support a world where APIs are the \"legal and functional hands\" of AI. We are moving from Open Banking (data access) to Actionable Banking (execution), where embedded finance becomes an invisible utility within the agentic workflow."
-msgstr ""
-
-#. type: Hash Value: upcomingevents displaydate
-#: _data/events.yaml:1
-#, no-wrap
-msgid "September 20 - October 1, 2026"
-msgstr ""
-
-#. type: Hash Value: upcomingevents link
-#: _data/events.yaml:1
-#, no-wrap
-msgid "https://github.com/quarkusio/quarkus/discussions/56396"
-msgstr ""
-
-#. type: Hash Value: upcomingevents location
-#: _data/events.yaml:1
-#, no-wrap
-msgid "London, UK"
-msgstr ""
-
-#. type: Hash Value: upcomingevents thumbnail
-#: _data/events.yaml:1
-#, no-wrap
-msgid "apidays_logo.webp"
-msgstr ""
-
-#. type: Hash Value: upcomingevents title
-#: _data/events.yaml:1
-#, no-wrap
-msgid "apidays London"
-msgstr ""
-
-#. type: Hash Value: upcomingevents date
-#: _data/events.yaml:1
-#, no-wrap
-msgid "2026-10-06"
-msgstr ""
-
-#. type: Hash Value: upcomingevents description
-#: _data/events.yaml:1
-#, no-wrap
-msgid "MCP Dev Summit Toronto explores how MCP is enabling interoperable AI agents to securely connect models with tools, data, and real-world systems."
-msgstr ""
-
-#. type: Hash Value: upcomingevents displaydate
-#: _data/events.yaml:1
-#, no-wrap
-msgid "October 5th-6th, 2026"
-msgstr ""
-
-#. type: Hash Value: upcomingevents link
-#: _data/events.yaml:1
-#, no-wrap
-msgid "https://github.com/quarkusio/quarkus/discussions/56397"
-msgstr ""
-
-#. type: Hash Value: upcomingevents location
-#: _data/events.yaml:1
-#, no-wrap
-msgid "Toronto, Canada"
-msgstr ""
-
-#. type: Hash Value: upcomingevents thumbnail
-#: _data/events.yaml:1
-#, no-wrap
-msgid "mcpdevsummittoronto.webp"
-msgstr ""
-
-#. type: Hash Value: upcomingevents title
-#: _data/events.yaml:1
-#, no-wrap
-msgid "MCP Dev Summit Toronto"
-msgstr ""
-
-#. type: Hash Value: upcomingevents description
-#: _data/events.yaml:1
-#, no-wrap
-msgid "Join 20,000+ developers at Devoxx Belgium. Explore AI Agents, Java 25, and cutting-edge tech. Annual conference in Antwerp with talks, demos, and networking."
-msgstr ""
-
-#. type: Hash Value: upcomingevents displaydate
-#: _data/events.yaml:1
-#, no-wrap
-msgid "October 5-9, 2026"
-msgstr ""
-
-#. type: Hash Value: upcomingevents link
-#: _data/events.yaml:1
-#, no-wrap
-msgid "https://github.com/quarkusio/quarkus/discussions/56245"
-msgstr ""
-
-#. type: Hash Value: upcomingevents location
-#: _data/events.yaml:1
-#, no-wrap
-msgid "Antwerp, Belgium"
-msgstr ""
-
-#. type: Hash Value: upcomingevents thumbnail
-#: _data/events.yaml:1
-#, no-wrap
-msgid "devoxx_logo.webp"
-msgstr ""
-
-#. type: Hash Value: upcomingevents title
-#: _data/events.yaml:1
-#, no-wrap
-msgid "Devoxx Belgium"
-msgstr ""
-
-#. type: Hash Value: upcomingevents date
-#: _data/events.yaml:1
-#, no-wrap
-msgid "2026-10-15"
-msgstr ""
-
-#. type: Hash Value: upcomingevents description
-#: _data/events.yaml:1
-#, no-wrap
-msgid "dev2next is the premier conference designed for software developers, architects, technology leaders, development managers, and directors. Explore cutting-edge strategies, tools, and essential practices for building powerful applications using the latest trends and good practices."
-msgstr ""
-
-#. type: Hash Value: upcomingevents displaydate
-#: _data/events.yaml:1
-#, no-wrap
-msgid "October 12-15, 2026"
-msgstr ""
-
-#. type: Hash Value: upcomingevents link
-#: _data/events.yaml:1
-#, no-wrap
-msgid "https://github.com/quarkusio/quarkus/discussions/56398"
-msgstr ""
-
-#. type: Hash Value: upcomingevents location
-#: _data/events.yaml:1
-#, no-wrap
-msgid "Lone Tree, CO USA"
-msgstr ""
-
-#. type: Hash Value: upcomingevents thumbnail
-#: _data/events.yaml:1
-#, no-wrap
-msgid "dev2next_logo.webp"
-msgstr ""
-
-#. type: Hash Value: upcomingevents title
-#: _data/events.yaml:1
-#, no-wrap
-msgid "dev2next"
-msgstr ""
-
-#. type: Hash Value: upcomingevents date
-#: _data/events.yaml:1
-#, no-wrap
 msgid "2026-10-29"
 msgstr ""
 
@@ -386,6 +56,12 @@ msgstr ""
 #, no-wrap
 msgid "IBM TechXchange"
 msgstr ""
+
+#. type: Hash Value: upcomingevents type
+#: _data/events.yaml:1
+#, fuzzy, no-wrap
+msgid "In Person"
+msgstr "Pessoalmente"
 
 #. type: Hash Value: upcomingevents date
 #: _data/events.yaml:1
@@ -589,4 +265,52 @@ msgstr ""
 #: _data/events.yaml:1
 #, no-wrap
 msgid "Cloud Native AI Summit - Paris"
+msgstr ""
+
+#. type: Hash Value: upcomingevents date
+#: _data/events.yaml:1
+#, no-wrap
+msgid "2027-02-03"
+msgstr ""
+
+#. type: Hash Value: upcomingevents description
+#: _data/events.yaml:1
+#, no-wrap
+msgid "The Quarkus community virtual conference is a free, open-access online event held over two half-days on February 2–3, 2027. Streamed live, the conference features presentations, technical sessions, and interactive panel discussions focused on key topics like enterprise Java adoption, cloud-native development, and Java for AI. Built and driven by the community, the event brings together developers, contributors, and industry experts to share insights, engage in live Q&A, and foster open-source innovation."
+msgstr ""
+
+#. type: Hash Value: upcomingevents displaydate
+#: _data/events.yaml:1
+#, no-wrap
+msgid "February 2-3, 2027"
+msgstr ""
+
+#. type: Hash Value: upcomingevents link
+#: _data/events.yaml:1
+#, no-wrap
+msgid "https://github.com/quarkusio/quarkus/discussions/57248"
+msgstr ""
+
+#. type: Hash Value: upcomingevents location
+#: _data/events.yaml:1
+#, no-wrap
+msgid "Everywhere"
+msgstr ""
+
+#. type: Hash Value: upcomingevents thumbnail
+#: _data/events.yaml:1
+#, no-wrap
+msgid "quarkusdev_logo.webp"
+msgstr ""
+
+#. type: Hash Value: upcomingevents title
+#: _data/events.yaml:1
+#, no-wrap
+msgid "Quarkus:Dev 2027"
+msgstr ""
+
+#. type: Hash Value: upcomingevents type
+#: _data/events.yaml:1
+#, no-wrap
+msgid "Online"
 msgstr ""
