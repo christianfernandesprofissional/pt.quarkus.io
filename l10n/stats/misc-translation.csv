@@ -1,5 +1,6 @@
 Filename, Fuzzy Messages, Total Messages, Fuzzy Words, Total Words, Achievement
 l10n/po/pt_BR/_data/wg.yaml.po, 261, 261, 14607, 14607, 0%
+l10n/po/pt_BR/_data/newsletter.yaml.po, 358, 358, 11934, 11934, 0%
 l10n/po/pt_BR/_data/versioned/main/index/categories.yaml.po, 1816, 1816, 6861, 6861, 0%
 l10n/po/pt_BR/_data/versioned/3-40/index/categories.yaml.po, 1770, 1770, 6707, 6707, 0%
 l10n/po/pt_BR/_data/versioned/latest/index/categories.yaml.po, 1770, 1770, 6707, 6707, 0%
@@ -31,12 +32,9 @@ l10n/po/pt_BR/_data/versioned/3-15/index/relations.yaml.po, 141, 481, 637, 1283,
 l10n/po/pt_BR/_includes/catalog-detail-band.html.po, 83, 88, 608, 614, 1%
 l10n/po/pt_BR/_includes/ai-chainofthought.html.po, 29, 29, 573, 573, 0%
 l10n/po/pt_BR/_data/versioned/3-8/index/relations.yaml.po, 123, 446, 567, 1196, 53%
-l10n/po/pt_BR/_data/newsletter.yaml.po, 220, 220, 566, 566, 0%
-l10n/po/pt_BR/_data/events.yaml.po, 97, 97, 553, 553, 0%
 l10n/po/pt_BR/_includes/ai-contextualrag.html.po, 30, 30, 540, 540, 0%
 l10n/po/pt_BR/_data/versioned/3-6/index/relations.yaml.po, 118, 444, 532, 1183, 56%
 l10n/po/pt_BR/_includes/benefactors.html.po, 32, 32, 530, 530, 0%
-l10n/po/pt_BR/_data/contributors.yaml.po, 358, 358, 520, 520, 0%
 l10n/po/pt_BR/_data/releases.yaml.po, 416, 416, 501, 501, 0%
 l10n/po/pt_BR/_includes/ai-frozenrag.html.po, 25, 25, 501, 501, 0%
 l10n/po/pt_BR/_includes/working-group-band.html.po, 34, 34, 481, 481, 0%
@@ -50,6 +48,7 @@ l10n/po/pt_BR/_includes/ai-blueprints.html.po, 14, 14, 334, 334, 0%
 l10n/po/pt_BR/_data/training.yaml.po, 58, 59, 326, 328, 1%
 l10n/po/pt_BR/_includes/kubernetes-native.html.po, 16, 24, 314, 422, 26%
 l10n/po/pt_BR/_includes/spring-features-band.html.po, 17, 17, 308, 308, 0%
+l10n/po/pt_BR/_data/events.yaml.po, 51, 51, 300, 300, 0%
 l10n/po/pt_BR/_data/sitemap-links.yaml.po, 159, 159, 298, 298, 0%
 l10n/po/pt_BR/_includes/get-started-code-steps.html.po, 25, 25, 249, 249, 0%
 l10n/po/pt_BR/_includes/spring-userstory-callout.html.po, 12, 12, 246, 246, 0%
@@ -89,6 +88,7 @@ l10n/po/pt_BR/_includes/homepage-ai-band.html.po, 4, 4, 37, 37, 0%
 l10n/po/pt_BR/_includes/training-band.html.po, 10, 10, 37, 37, 0%
 l10n/po/pt_BR/_data/cheatsheets.yaml.po, 11, 11, 34, 34, 0%
 l10n/po/pt_BR/_data/event_worldtour_hero.yaml.po, 2, 2, 34, 34, 0%
+l10n/po/pt_BR/_data/contributors.yaml.po, 24, 24, 30, 30, 0%
 l10n/po/pt_BR/_includes/homepage-imperative_and_reactive-band.html.po, 2, 6, 24, 46, 48%
 l10n/po/pt_BR/_includes/newsletter-band.html.po, 6, 6, 24, 24, 0%
 l10n/po/pt_BR/_data/publication-entries.yaml.po, 1, 1, 21, 21, 0%
